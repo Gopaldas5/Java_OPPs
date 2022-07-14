@@ -1,4 +1,4 @@
-package OPPS_Concept.OPPs;
+package OPPS_Concept.OPPs_Encapsulation;
 
 public class FanRunner {
     public static void main(String[] args) {

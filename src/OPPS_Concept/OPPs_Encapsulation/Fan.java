@@ -1,6 +1,4 @@
-package OPPS_Concept.OPPs;
-
-import java.security.PublicKey;
+package OPPS_Concept.OPPs_Encapsulation;
 
 public class Fan {
 

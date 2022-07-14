@@ -1,4 +1,4 @@
-package OPPS_Concept.OPPs;
+package OPPS_Concept.OPPs_Encapsulation;
 
 public class Rectangle {
 
@@ -38,7 +38,8 @@ public class Rectangle {
 
 
     public String toString(){
-        return String.format("Length - %d, Breadth - %d, Area - %d, Perimeter - %d",
+        return String.format("Length - %d, Breadth - %d,\n Area of a rectangle :- %d " +
+                        "\n Perimeter of a rectangle :- %d",
         length,breadth,area(),perimeter());
     }
 }
