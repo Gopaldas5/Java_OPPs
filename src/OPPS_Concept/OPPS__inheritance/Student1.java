@@ -26,8 +26,4 @@ public class Student1 extends Person {
         this.year = year;
     }
 
-
-
-
-
 }

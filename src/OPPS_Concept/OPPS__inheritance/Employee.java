@@ -14,7 +14,6 @@ public class Employee extends Person{
         System.out.println("Employee constructor");
     }
 
-
     public String getTitle() {
         return title;
     }
