@@ -38,7 +38,7 @@ public class StartCode {
         names.set(3,"Akash");
         System.out.println(names);
 
-        names.add(4, "Gargi");
+        names.add(1, "Gargi");
         System.out.println(names);
 
         // un type safe collections
